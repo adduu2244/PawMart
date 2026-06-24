@@ -43,7 +43,7 @@ Database
 MongoDB
 Mongoose
 
-🔒 Authentication Flow
+🔒 Authentication Flow:- 
 a.User registers an account.
 b.User logs in using email and password.
 c.JWT token is generated and stored in local storage.
