@@ -7,7 +7,7 @@ Features:-
 1.Authentication
 User Registration
 User Login
-User Logout
+User Logout 
 JWT-based Authentication
 Protected User Access
 
