@@ -5,7 +5,7 @@ The project was built to practice full-stack web development using React, Node.j
 
 Features:-
 1.Authentication
-User Registration
+User Registration 
 User Login
 User Logout 
 JWT-based Authentication
