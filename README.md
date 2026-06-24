@@ -3,7 +3,7 @@
 PawMart is a full-stack pet care e-commerce web application that allows users to register, log in, browse pet products, search and filter products, and manage a shopping cart through a modern user interface.
 The project was built to practice full-stack web development using React, Node.js, Express, MongoDB, and JWT Authentication.
 
-🚀 Features
+Features:-
 1.Authentication
 User Registration
 User Login
@@ -54,6 +54,4 @@ e.Logout removes the token and redirects the user to the login page.
 Aditi Ghadi
 Built as a full-stack web development project to strengthen frontend, backend, database, and authentication concepts.
 
-Authentication
-JSON Web Token (JWT)
-Local Storage
+
